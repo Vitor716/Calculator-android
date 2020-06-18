@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="TextView_1">Digite o primeiro número:</string>
+    <string name="TextView_4">Resultado</string>
+    <string name="TextView_2">Digite o segundo número:</string>
+
+    <string name="button_1">+</string>
+    <string name="button_Div">/</string>
+    <string name="button_Multi">X</string>
+    <string name="button_Sub">-</string>
+
+    <string name="editText1">Escreva aqui</string>
+    <string name="editText2">Escreva aqui</string>
+    <string name="editText3">Seu resultado</string>
+
+</resources>
